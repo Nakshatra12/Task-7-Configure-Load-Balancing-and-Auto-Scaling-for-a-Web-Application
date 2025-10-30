@@ -16,3 +16,53 @@ To understand *scalability and fault tolerance* in cloud computing by setting up
 ### Health Check	: Periodic test to verify if a backend instance is healthy and responding.
 
 ### Scaling Policy :	Defines when to add or remove instances (e.g., CPU > 60%).
+
+## Screenshots
+
+- Backend Instances
+
+- Apache2
+
+- 2 Instances Active
+
+- Load balancer
+
+- Instance Groups
+
+## ⚙️ Step-by-Step Implementation
+
+### 1️⃣ Create a Basic Web App
+
+### 2️⃣ Create a Startup Script (Automates Setup)
+
+### 3️⃣ Create an Instance Template
+
+### 4️⃣ Create a Managed Instance Group
+
+### 5️⃣ Verify VM Instances
+
+### 6️⃣ Create a Load Balancer
+
+### 7️⃣ Configure the Backend
+
+### 8️⃣ Configure the Frontend
+
+### 9️⃣ Review and Create Load Balancer
+
+### 🔟 Test the Load Balancer
+
+### 1️⃣1️⃣ Test Auto Scaling
+
+### 1️⃣2️⃣ Monitor and Clean Up
+
+## Outcome
+
+- By completing this task, I learned to:
+
+- Set up a Load Balancer for multiple VMs
+
+- Implement Auto Scaling for variable traffic
+
+- Use Health Checks for reliability
+
+- Understand scalable architecture design on GCP
